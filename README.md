@@ -75,4 +75,6 @@ Apply filters (e.g., show only specific departments or salary ranges).
 
 OUTPUT:
 
+![image](https://github.com/user-attachments/assets/3e8d1f44-88d2-41cb-8280-ca8faa8786ac)
+
 
